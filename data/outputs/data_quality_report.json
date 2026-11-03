@@ -1,0 +1,11 @@
+{
+  "rows": 720,
+  "duplicate_dates": 0,
+  "missing_dates": 0,
+  "missing_numeric_cells": 0,
+  "negative_numeric_cells": 0,
+  "minimum_reporting_gap_days": 1,
+  "median_reporting_gap_days": 1.0,
+  "maximum_reporting_gap_days": 10,
+  "consecutive_calendar_observations": 558
+}
